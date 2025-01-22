@@ -1,6 +1,6 @@
 # Multithreaded-chat-application
 
-#Project Details
+# Project Details
 
 **Name**: Nimisha Karankal  
 **Company Name**: CODTECH IT SOLUTIONS  
@@ -98,6 +98,12 @@ The application includes:
 The chat application demonstrates the effective use of Java's networking and multithreading capabilities to create a real-time communication system. It facilitates seamless interaction between multiple clients while maintaining robust server operations and proper resource management. This project provides a strong foundation for understanding client-server architecture and serves as a starting point for developing more advanced communication systems.
 
 ---
+# Output:
+![image](https://github.com/user-attachments/assets/09a0a3e6-97db-4f12-a137-270b5898f158)
+![image](https://github.com/user-attachments/assets/6a37b778-05a0-4dfd-a6fd-99179e44e541)
+![image](https://github.com/user-attachments/assets/11eb0e21-a9f3-4f51-a3f8-516f15e30e9e)
+
+
 
 
 
