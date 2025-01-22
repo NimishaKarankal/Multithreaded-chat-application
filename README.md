@@ -1,5 +1,15 @@
 # Multithreaded-chat-application
 
+#Project Details
+
+**Name**: Nimisha Karankal  
+**Company Name**: CODTECH IT SOLUTIONS  
+**Intern ID**: CT08GJI  
+**Domain**: Java Programming  
+**Mentor**: Neela Santhosh  
+**Batch Duration**: 25th December 2024 to 25th January 2025  
+
+--
 ### Overview of the Code
 
 The provided Java code implements a simple **multi-client chat application** that includes both the client-side and server-side components. This application facilitates real-time messaging among multiple users connected to the same server. It demonstrates core concepts of **networking, multithreading, and I/O operations** in Java.
