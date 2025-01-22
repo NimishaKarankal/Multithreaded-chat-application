@@ -80,6 +80,12 @@ The application includes:
 
 5. **Command Parsing**:
    - The `/list` and `/exit` commands illustrate simple text-based command handling.
+  
+   ---
+
+  ### Conclusion
+
+The chat application demonstrates the effective use of Java's networking and multithreading capabilities to create a real-time communication system. It facilitates seamless interaction between multiple clients while maintaining robust server operations and proper resource management. This project provides a strong foundation for understanding client-server architecture and serves as a starting point for developing more advanced communication systems.
 
 ---
 
