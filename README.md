@@ -100,7 +100,11 @@ The chat application demonstrates the effective use of Java's networking and mul
 ---
 # Output:
 ![image](https://github.com/user-attachments/assets/09a0a3e6-97db-4f12-a137-270b5898f158)
+
+
 ![image](https://github.com/user-attachments/assets/6a37b778-05a0-4dfd-a6fd-99179e44e541)
+
+
 ![image](https://github.com/user-attachments/assets/11eb0e21-a9f3-4f51-a3f8-516f15e30e9e)
 
 
